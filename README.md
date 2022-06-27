@@ -16,6 +16,6 @@ Estoy capacitandome como desarrollador para poder insertarme de manera profesion
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGuijarro)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGuijarro&show_icons=true)  
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=LucianoGuijarro&show_icons=true](https://www.linkedin.com/in/luciano-ezequiel-guijarro-816561243/))  
 
 ![Profile views](https://gpvc.arturio.dev/LucianoGuijarro)  
